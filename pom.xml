@@ -30,7 +30,7 @@
 	</dependencies>
 
 	<build>
-		<testSourceDirectory>src/uk/ac/qub/eeecs/dave</testSourceDirectory>
+		<testSourceDirectory>test/uk/ac/qub/eeecs/dave</testSourceDirectory>
 		<plugins>
 
 			<plugin>
